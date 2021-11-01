@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+        body {
+            background-color: #339FFF;
+            margin: 20%;
+        }
+ 
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 7vh;
+        }
+ 
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+      
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        div#tribute-data {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+        h1.title-Family {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+</head>
+ 
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            Solid As A Rock
+        </h1>
+ 
+        <div id="img">
+ 
+            <img src="solidrock.jpeg" id="image"
+                alt="Error Loading Image">
+            <small id="caption">
+                The loved ones that has been my biggest supporters throughout my life's journey.
+            </small>
+        </div>
+ 
+        <div id="tribute-data">
+ 
+            <h1 class="title-APJ">
+               Momma
+            </h1>
+ 
+             <img src="mom.jpeg" id="image"
+                alt="Error Loading Image">
+ 
+<p>
+                My mother has always been the person that no matter what goes on, have encouraged, strenthed and even disciplined me to move foward, 
+                accomplish my goals and reminds me that it gets tough but all my dreams are worth fighting for. Thank you for all of you!
+            </p>
+ 
+  <img src="Corrie.jpeg" id="image"
+                alt="Error Loading Image">
+<p>
+                My Oldest sister Corrie, always pushes me with love. The big sister, the protector, lets me make bold moves without anyone getting in my way
+                and always telling to aim bigger and higher for things I want.
+            </p>
+            
+            <img src="Jenn.jpeg" id="image"
+                alt="Error Loading Image">
+             
+<p>
+                My Older sister Jennifer, always shows the gentle love. When the big sister is too hard, she softens the blow with words of encouragement and
+                guidance that helps me be more confident.
+            </p>
+        </div>
+        <br>
+            Without these women in my life, I would be incomplete. Thank You GOD for my family!
+        </small>]
+    </main>
+</body>
+ 
+</html>
